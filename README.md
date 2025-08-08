@@ -1,2 +1,2 @@
-# discord-status-ideas
-💬 Fun and original Discord status ideas
+# 💬 Discord Status Ideas
+Fun and original Discord status ideas
