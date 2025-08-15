@@ -11,7 +11,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 
 ## 📕 Ideas
 
-### Development & Debugging
+### Development
 
 - 💻 Coding mode: ON
 - 🧪 Debugging in progress
@@ -32,7 +32,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 - 🧑‍🎤 One-man dev band
 - 🧱 Building a better [Specific Product/Service]
 
-### Focus & Mindset
+### Focus
 
 - 🧠 Focused (I think)
 - 🤐 Silent grind
@@ -52,7 +52,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 - 🎲 Chance-based progress
 - 🔄 Restarting again
 
-### Git & Workflow
+### Workflow
 
 - 🔁 Git push, git pull, repeat
 - 📤 Committing... something
@@ -91,7 +91,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 - 🤐 Zero noise
 - 🚪 Mentally afk
 
-### Learning & Exploration
+### Learning
 
 - 📖 Skimming through docs
 - 🔍 Reading documentation
@@ -102,7 +102,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 - 🧭 Navigating life
 - 📘 Always learning, always building.
 
-### Status & Mood
+### Mood
 
 - 🤖 Robot mode
 - 👾 Debugging life
@@ -124,7 +124,7 @@ A curated collection of Discord status ideas. Perfect if you want to spice up yo
 - 🧠 Full of tabs
 - 📐 Measuring nothing
 
-### Productivity & Goals
+### Productivity
 
 - 💪 Keep shipping
 - 📈 One commit at a time
